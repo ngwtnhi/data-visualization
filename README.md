@@ -10,8 +10,8 @@
 Our project aims to provide insights into average income and workforce dynamics in Vietnam through advanced data visualization tools. By utilizing interactive charts and maps, this project analyzes income trends and workforce fluctuations over the years. The goal is to support policymakers, researchers, and stakeholders in making data-driven decisions based on specific and actionable economic data.
 
 Project overview see here:
-[per capita income](https://colab.research.google.com/drive/1_FT6v24k6EnmjlnMP25cVKSOHQ0ABEcL?usp=drive_link)
-[labor force](https://colab.research.google.com/drive/1_7480aZziecrG1NLVQSs4kiCVJgtFw_k?usp=drive_link)
+[Per capita income](https://colab.research.google.com/drive/1_FT6v24k6EnmjlnMP25cVKSOHQ0ABEcL?usp=drive_link) ,
+[Labor force](https://colab.research.google.com/drive/1_7480aZziecrG1NLVQSs4kiCVJgtFw_k?usp=drive_link)
 
 ## Main contents include:
 - Introduction
@@ -26,6 +26,7 @@ git clone https://github.com/ngwtnhi/data-visualization
 ```
 ### Install Python and Jupyter Notebook
  Ensure Python is installed on your machine. You can download it from [python.org](https://www.python.org/)
+ 
 Open your terminal or command prompt and install Jupyter Notebook using pip:
 ```bash
 pip install notebook
