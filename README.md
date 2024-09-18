@@ -52,7 +52,3 @@ myenv\Scripts\activate
 ```bash
 source myenv/bin/activate
 ```
-Install libraries in the virtual environment:
-```bash
-pip install pandas numpy seaborn geopandas matplotlib
-```
